@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am a fifth-year Computer Science student at the University of Alberta. I’m passionate about turning ideas into real products, learning new frameworks, and building things that people actually want to use.
 
+Additionally, I’m building hands-on hardware experience through projects using Raspberry Pis and ESP32s.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mark-singh007/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:markdavidsingh02@gmail.com) 
